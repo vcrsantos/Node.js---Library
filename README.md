@@ -1,4 +1,4 @@
-# Project 1 - Node.js Library
+# Project: Node.js Library
 
 This project is a simple API and web page for a library, developed as part of the Alura Warm-up for the Software Engineering post-graduate program. It uses Node.js, Express and MongoDB.
 
